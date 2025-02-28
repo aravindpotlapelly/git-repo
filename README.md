@@ -1,1 +1,1 @@
-Example
+# git-repoclear
